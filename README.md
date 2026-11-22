@@ -60,3 +60,22 @@ Further enhancements and documentation are in progress.
 ![Detailed Analysis](dashboard-screenshots/detailed-analysis.png)
 
 
+## Key Business Insights
+
+- Analysed 34,500 e-commerce orders.
+- Total revenue recorded: 5,865,293.05.
+- Average order value: 170.01.
+- Total quantity sold: 51,430 units.
+- Overall return rate: 5.52%.
+
+### Category Insights
+- Electronics generated the highest revenue.
+- Fashion recorded the highest return rate at 8.28%.
+- Grocery had the lowest return rate at 1.31%.
+
+### Project Outcome
+
+Developed an interactive Power BI dashboard to explore sales performance, product categories, customer behaviour, payment preferences, regional revenue and profitability.
+
+
+

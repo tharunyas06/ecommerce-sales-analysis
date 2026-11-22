@@ -1,22 +1,22 @@
-### E-Commerce Sales Analysis
+# E-Commerce Sales Analysis
 
-### Business Performance & Customer Insights Dashboard
+# Business Performance & Customer Insights Dashboard
 
 An end-to-end e-commerce data analytics project focused on understanding sales performance, customer behaviour, product categories, payment preferences, and profitability.
 
-# Project Overview
+## Project Overview
 
 This project analyses an e-commerce dataset containing **34,500 orders** to identify meaningful business insights and performance trends.
 
 The analysis uses Google Sheets, SQL, and Power BI to explore the data and present findings through an interactive dashboard.
 
-# Tools & Technologies
+## Tools & Technologies
 
 - Google Sheets – Data cleaning and exploratory analysis
 - SQL – Data querying and analysis
 - Power BI – Data visualisation and dashboard development
 
-# Key Performance Indicators
+## Key Performance Indicators
 
 - Total Orders: 34,500
 - Total Revenue: 5,865,293.05
@@ -25,7 +25,7 @@ The analysis uses Google Sheets, SQL, and Power BI to explore the data and prese
 - Returned Orders: 1,903
 - Return Rate: 5.52%
 
-# Dashboard Features
+## Dashboard Features
 
 - Revenue analysis by product category
 - Regional sales performance
@@ -34,7 +34,7 @@ The analysis uses Google Sheets, SQL, and Power BI to explore the data and prese
 - Monthly revenue trends
 - Profitability analysis
 
-# Project Objectives
+## Project Objectives
 
 - Evaluate overall sales performance.
 - Identify high-performing product categories.
@@ -42,10 +42,21 @@ The analysis uses Google Sheets, SQL, and Power BI to explore the data and prese
 - Analyse regional revenue contribution.
 - Examine product returns and profitability.
 - Present insights through an interactive dashboard.
+- 
 
 # Project Status
 
 Completed: Initial data analysis and Power BI dashboard.
 
 Further enhancements and documentation are in progress.
+
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard-screenshots/executive-overview.png)
+
+### Detailed Analysis
+![Detailed Analysis](dashboard-screenshots/detailed-analysis.png)
+
 
